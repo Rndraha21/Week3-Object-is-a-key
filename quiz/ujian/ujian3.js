@@ -27,7 +27,7 @@ function highestScore(students) {
 
   return result;
 }
-
+  
 
 // TEST CASE
 console.log(
